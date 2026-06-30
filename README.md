@@ -28,7 +28,7 @@ A content-based movie recommender system that suggests similar movies based on t
 
 ---
 
-## 📂 Project Workflow
+## Project Workflow
 
 The project follows a systematic workflow:
 
