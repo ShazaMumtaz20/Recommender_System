@@ -40,7 +40,7 @@ The project follows a systematic workflow:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology       | Description                                        |
 | ---------------- | -------------------------------------------------- |
