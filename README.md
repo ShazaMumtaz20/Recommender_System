@@ -4,7 +4,7 @@ A content-based movie recommender system that suggests similar movies based on t
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 -   [Features](#-features)
 -   [Project Workflow](#-project-workflow)
