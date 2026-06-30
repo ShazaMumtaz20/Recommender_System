@@ -17,7 +17,7 @@ A content-based movie recommender system that suggests similar movies based on t
 
 ---
 
-## ✨ Features
+## Features
 
 -   **Data Cleaning**: Preprocesses the IMDb dataset to handle missing values and format text.
 -   **Exploratory Data Analysis (EDA)**: Includes visualizations like genre distribution bar plots, word clouds, and similarity heatmaps.
